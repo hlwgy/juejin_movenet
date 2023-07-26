@@ -13,6 +13,12 @@ main.py 演示入口类，调用类库
 test.jpeg 测试图片
 ```
 
+类库支持：numpy、cv2
+```
+pip install numpy
+pip install opencv-python
+```
+
 ## 其他平台代码
 https://pan.baidu.com/s/11CyuVcQ3u86C6Y9nAetQ2Q?pwd=8xe2 提取码: 8xe2 
 ```
